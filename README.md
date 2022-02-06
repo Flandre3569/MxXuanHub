@@ -1,2 +1,2 @@
 # MxXuanHub
-在学习coderwhy老师的node的时候练习的代码
+node实现博客系统练习项目
